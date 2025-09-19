@@ -13,15 +13,6 @@ The notebook uncovers insights on airlines, routes, durations, and seasonal vari
 ┣ 📜 requirements.txt <- Python dependencies
 ┗ 📘 README.md <- Project documentation
 ---
-
----
-
-## 📊 Dataset  
-
-The dataset used in this project is:  
-(👉 [Download Dataset (Google Drive)](https://drive.google.com/your-file-id)
-)  
-
 It contains details such as:  
 - 🛫 Airline  
 - 🌆 Source & Destination cities  
